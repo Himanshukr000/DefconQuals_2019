@@ -26,7 +26,9 @@ Now the curl gave a pretty output.
 
 ![dc2](img/dc2.png)
 
-A 302 ....Huh!...but couldn't find a way to get to the URL. Then an idea of archives stumbled (maybe the webpage was archived-The unplugged thing in Description) **Web_Archives**. Entered the URL there n all there was a OOO{} FLAG. 
+A 302 ....Huh!...but couldn't find a way to get to the URL. Then an idea of archives stumbled from the moved URL and the Unplugged thing in description.(Maybe the contents of the webpage were archived) **Web_Archives**. Entered the URL there n all there was a OOO{} FLAG. 
+
+>http://web.archive.org/web/20190311064556/http://forget-me-not.even-more-militarygrade.pw/
 
 ![dc3](img/dc3.png)
 
